@@ -1,4 +1,3 @@
-// Assignment Code
 var CharaacterLength = 8;
 var choice = [];
 
